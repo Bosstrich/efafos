@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">edafos</string>
+    <string name="bold">Don\'t have an account? <b>Sign up </b> </string>
+    <string name="Email">Email Address</string>
+    <string name="login">LOGIN</string>
+    <string name="Username">Username</string>
+    <string name="signup">SIGNUP</string>
+    <string name="Password">Password</string>
+    <string name="Mobile_Number">Mobile Number</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="Slogan">We care for your soils</string>
+    <string name="submit">Submit</string>
+    <string name="verification">Enter the code that we sent through your phone</string>
+    <string name="Resend">Didn\'t receive the code? <font color="#FF5872"> <b>Resend </b> </font></string>
+    <string name="Error"><b>Failed!</b></string>
+    <string name="invalid_photo">Invalid Photo.</string>
+    <string name="good">Good</string>
+    <string name="successfully_identified">Successfully Identified</string>
+    <string name="results"> <b>RESULTS: </b></string>
+    <string name="todo">TODO</string>
+    <string name="test_again">Test Again</string>
+    <string name="soil_information">Soil Information</string>
+    <string name="successfully_identified_good">Successfully Identified.</string>
+    <string name="success">success</string>
+    <string name="poor">Poor</string>
+
+</resources>

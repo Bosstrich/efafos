@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805173681143",
+    "firebase_url": "https://edafos-4f16e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "edafos-4f16e",
+    "storage_bucket": "edafos-4f16e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805173681143:android:d32bda181ec5911fdc2cf2",
+        "android_client_info": {
+          "package_name": "com.aplication.edafos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805173681143-h64847beffm4c9pqvkhidqo2qvapdlbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplication.edafos",
+            "certificate_hash": "19de1ea3a10183b6f8c18a96f039b8bce35a565c"
+          }
+        },
+        {
+          "client_id": "805173681143-dhs5bjvdeo2783i7t161kjjp983ogd78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZT81X4mf7irIoeSY3_WyfhIYPNg4aCmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805173681143-dhs5bjvdeo2783i7t161kjjp983ogd78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
